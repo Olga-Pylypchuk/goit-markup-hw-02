@@ -27,7 +27,7 @@ color: #4d5ae5;
 }
 
 .footer-logo .logo-part {
-    color: #a7a7f5;
+    color: #f4f4fd;
 }
 
 
@@ -99,6 +99,7 @@ cursor: pointer;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 .subtitle {
